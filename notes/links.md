@@ -1,1 +1,6 @@
-[Documentation](https://visjs.github.io/vis-timeline/docs/timeline/)
+#### Basic
+* [Documentation](https://visjs.github.io/vis-timeline/docs/timeline/)
+* [Examples](https://visjs.github.io/vis-timeline/examples/timeline/)
+
+#### Tutorials
+* https://www.pluralsight.com/courses/build-first-data-visualization-vis-js
